@@ -19,7 +19,7 @@ scipy                   1.2.3
 numpy                   1.16.6
 sklearn-learn           1.3.2            
 ```
-
+Pse-in-One-2.0           http://bliulab.net/Pse-in-One2.0/download/ 
 ### Dataset
 
 DR1_smote_ENN.mat		经过基于距离的残基特征提取和Smote-ENN重采样技术处理后的数据集1文件
